@@ -24,8 +24,7 @@ A professional voice-controlled photo editor built with Python, OpenCV, and PySi
 
 ## 🎨 Screenshot
 
-![App Screenshot](Photo\Screenshot.png)
-
+<img src="Photo\Screenshot.png" alt="Main Interface" width="800"/>
 
 ## 🚀 Installation
 
@@ -45,9 +44,12 @@ pip install -r requirements.txt
 
 # 4. Run application
 python main.py
+```
 
 
 ### macOs/Linux
+
+```bash
 
 # 1. Clone repository
 git clone https://github.com/yourusername/photo-editor-pro.git

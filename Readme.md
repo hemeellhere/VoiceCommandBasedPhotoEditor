@@ -10,7 +10,7 @@ A professional voice-controlled photo editor built with Python, OpenCV, and PySi
 - Python 3.8 or higher
 - Microphone (for voice control)
 - Internet connection (for Google Speech Recognition)
-![alt text](image.png)
+
 ## ✨ Features
 
 - 🎤 **Voice Control** - Edit photos using voice commands
@@ -21,6 +21,10 @@ A professional voice-controlled photo editor built with Python, OpenCV, and PySi
 - ⌨️ **Keyboard Shortcuts** - Fast workflow
 - 🎯 **Modern UI** - Dark theme interface
 - 📁 **Multi-format** - PNG, JPEG, WebP, BMP, TIFF, GIF
+
+## 🎨 Screenshot
+
+![App Screenshot](Photo\Screenshot.png)
 
 
 ## 🚀 Installation
